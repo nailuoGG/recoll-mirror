@@ -1,3 +1,9 @@
+recoll (1.26.7-1~ppaPPAVERS~SERIES1) SERIES; urgency=low
+
+  * Add code to migrate Linux GUI prefs from .conf to .ini
+  
+ -- Jean-Francois Dockes <jf@dockes.org>  Fri, 03 Apr 2020 18:18:00 +0200
+
 recoll (1.26.5-1~ppaPPAVERS~SERIES1) SERIES; urgency=low
 
   * Version bump for the new OCR scripts

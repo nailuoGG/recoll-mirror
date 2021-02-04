@@ -1,3 +1,9 @@
+recoll (1.28.6-1~ppaPPAVERS~SERIES1) SERIES; urgency=low
+
+  * Add rclorgmode.py, forgotten in 1.28.5 tar file
+  
+ -- Jean-Francois Dockes <jf@dockes.org>  Thu, 04 Feb 2021 09:00:00 +0100
+
 recoll (1.28.5-1~ppaPPAVERS~SERIES1) SERIES; urgency=low
 
   * Fix error in 1.28.3 which broke indexing RTF files with a .doc extension.
